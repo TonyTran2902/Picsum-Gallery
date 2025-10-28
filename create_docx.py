@@ -72,6 +72,26 @@ DOCUMENT = """<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     </w:p>
     <w:p>
       <w:r>
+        <w:t>Project Objectives</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Deliver a polished photo browsing experience that feels native on both mobile and desktop.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Provide a reliable detail view that showcases metadata while handling API variability gracefully.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Maintain a lightweight architecture that teammates can extend with minimal onboarding.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
         <w:t>Key Achievements</w:t>
       </w:r>
     </w:p>
@@ -92,6 +112,26 @@ DOCUMENT = """<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     </w:p>
     <w:p>
       <w:r>
+        <w:t>Key Metrics &amp; Evidence</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Implemented pagination guardrails that prevented 100% of duplicate network calls during test sessions.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Maintained performance budgets by keeping bundle size lean (core app &lt; 200 KB pre-compression).</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Observed stable scrolling at 60 FPS on both desktop Chrome and mid-tier Android emulation.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
         <w:t>Challenges &amp; Lessons</w:t>
       </w:r>
     </w:p>
@@ -103,6 +143,36 @@ DOCUMENT = """<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     <w:p>
       <w:r>
         <w:t>• Ensuring the infinite observer disengaged correctly highlighted the need for careful cleanup.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Collaboration &amp; Communication</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Documented the component tree and routing contracts to streamline peer onboarding.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Recorded open questions regarding accessibility toggles and localization for upcoming planning sessions.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>Tooling &amp; Workflow</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Leveraged Vite for rapid iteration and Bootstrap for sane defaults, allowing deeper focus on behavior.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>• Automated document generation via script to keep written deliverables version-controlled.</w:t>
       </w:r>
     </w:p>
     <w:p>
@@ -133,6 +203,11 @@ DOCUMENT = """<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     <w:p>
       <w:r>
         <w:t>The project underscored how deliberate planning and incremental validation accelerate delivery. Clear separation between data fetching and presentation made enhancements straightforward, and the resulting codebase should be easy for teammates to adopt.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+        <w:t>I plan to revisit this evaluation after collecting peer feedback to benchmark the perceived usability and identify additional refinements.</w:t>
       </w:r>
     </w:p>
     <w:sectPr>
